@@ -7,7 +7,7 @@ I worked on a synthetic dataset for loan risk assessment and approval prediction
 
 **1. Data Cleaning:** Standardized missing values, normalized categorical fields (e.g., employment status, loan approval), and ensured numeric consistency for risk scores.
 
-**2. SQL Analysis:** [*sql-query-file*]
+**2. SQL Analysis:** [*sql-query-file*](https://github.com/UdayMekaa/Loan-Risk-Approval-Analysis-Project-sql-python-tableau/blob/1827b5deb32b5d5149ecfa67cf264e68644ccc49/Loans_Risk_Data.sql)
 
 * Segmented borrowers into risk deciles (1–10).
 
@@ -15,7 +15,7 @@ I worked on a synthetic dataset for loan risk assessment and approval prediction
 
 * Validated insights through aggregate queries (approval %, loan counts).
 
-**3. Visualization in Tableau:** [*Visualization:*]
+**3. Visualization in Tableau:** [*Visualization:*](https://github.com/UdayMekaa/Loan-Risk-Approval-Analysis-Project-sql-python-tableau/blob/1827b5deb32b5d5149ecfa67cf264e68644ccc49/Dashboard%201%20(1).png)
 
 * Built an interactive dashboard titled "Loan Risk & Approval Analysis".
 
