@@ -1,7 +1,10 @@
-# Loan-Risk-Approval-Analysis-Project-sql-python-tableau
 # Project Summary: Loan Risk Assessment & Approval Modeling
 
 I worked on a synthetic dataset for loan risk assessment and approval prediction to simulate how financial institutions evaluate loan applicants.
+
+## Dataset
+* Raw Loan Dataset [Loan data](https://github.com/UdayMekaa/Loan-Risk-Approval-Analysis-Project-sql-python-tableau/blob/d35b008843f2309f628464af10deee6565876193/Loan.csv) \
+* Cleaned Loan Dataset [Clean Loan data](https://github.com/UdayMekaa/Loan-Risk-Approval-Analysis-Project-sql-python-tableau/blob/d35b008843f2309f628464af10deee6565876193/Loan_clean.csv)
 
 ## Steps Taken
 
